@@ -1,5 +1,5 @@
 # tic40.github.io
 
-this is a site created by Hugo
+here's my site
 
 https://tic40.github.io/
